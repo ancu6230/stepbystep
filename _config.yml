@@ -3,7 +3,7 @@ collections:
     output: true
 defaults:
   - scope:
-      path: ""
+      path: "/stepbystep/"
       type: "authors"
     values:
       layout: "author"
